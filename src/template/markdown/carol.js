@@ -7,8 +7,8 @@ export default `
  * 英文换行 word-break: break-all;
  */
 .layout {  
-  color: #666666;
-  font-size:14px;
+  color: #333;
+  font-size:15px;
   font-family:-apple-system-font,BlinkMacSystemFont,"Microsoft YaHei UI","Microsoft YaHei","PingFang SC","Helvetica Neue","Hiragino Sans GB",Arial,sans-serif;
 }
 
@@ -24,8 +24,8 @@ export default `
  * 首行缩进 text-indent: 2em;
  */
 p {
-  color: #666666;
-  font-size:14px;
+  color: #333;
+  font-size:15px;
 }
 
 /* 一级标题 */
@@ -93,17 +93,11 @@ h4 span{
   padding: 3px 10px 1px;
   border-top-right-radius: 5px;
   border-top-left-radius: 5px;
-  margin-right: 3px;
   font-size: 16px;
 }
 
 /* 四级标题修饰 请参考有实例的主题 */
 h4:after {
-  display: inline-block;
-  content: " ";
-  vertical-align: bottom;
-  border-bottom: 28px solid #efebe9;
-  border-right: 16px solid transparent;
 }
 
 /* 无序列表整体样式
