@@ -42,7 +42,7 @@ h1:after {
 
 /* 二级标题 */
 h2 {
-  font-size: 20px;
+  font-size: 22px;
   text-align:center;
   background-image: url(https://my-wechat.mdnice.com/mdnice/mountain_2_20191028221337.png); 
   background-position: center top;
@@ -71,7 +71,7 @@ h3 {
 
 /* 三级标题内容 */
 h3 span {
-  font-size: 18px;
+  font-size: 20px;
   display: inline-block;
   border-bottom: 2px solid rgb(239, 112, 96);
 }
@@ -93,7 +93,7 @@ h4 span{
   padding: 3px 10px 1px;
   border-top-right-radius: 5px;
   border-top-left-radius: 5px;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 /* 四级标题修饰 请参考有实例的主题 */
